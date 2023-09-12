@@ -1,0 +1,5 @@
+Collecting protobuf
+  Downloading protobuf-4.22.4-py3-none-any.whl (172 kB)
+     ------------------------------------ 172.8/172.8 kB 520.9 kB/s eta 0:00:00
+Installing collected packages: protobuf
+Successfully installed protobuf-4.22.4
